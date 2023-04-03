@@ -1,7 +1,9 @@
 
 
 <h2 align="center">Termux And The ext4 Filesystem, Part 1 Of 5: Reading And Writing, No Root Required<br>
-Published: April 3, 2023</h2>
+Published: April 3, 2023<br>
+https://gist.github.com/NoteAfterNote/2fd4d2070759793c2fb11f812eca0dd3
+</h2>
 
 <p><br></p>
 
