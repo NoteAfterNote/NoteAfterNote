@@ -34,7 +34,7 @@ Link: https://gist.github.com/NoteAfterNote/2fd4d2070759793c2fb11f812eca0dd3
 
 <p><br></p>
 
-Termux application (termux, com.termux): https://termux.com (https://termux.dev), https://github.com/termux/termux-app (@termux), https://wiki.termux.com
+Termux application (termux, com.termux): https://termux.com (https://termux.dev), https://github.com/termux/termux-app ([@termux](https://github.com/termux)), https://wiki.termux.com
  - Read https://wiki.termux.com/wiki/Termux-wake-lock 
  - Read https://wiki.termux.com/wiki/Termux-setup-storage
  - Read https://wiki.termux.com/wiki/Touch_Keyboard
@@ -49,7 +49,7 @@ MiXplorer (Hootan Parsa, com.mixplorer): https://mixplorer.com (read), https://f
  - Read "ii. UI, NAVIGATION, VIEW CONFIGURATION, BOOKMARKS, TABS": https://forum.xda-developers.com/t/mixplorer-q-a-and-faq-user-manual.3308582/
  - Enable "Servers" button: Select "Settings" then "Buttons" then "Tool bar" then "Servers"
  - Image of MiXplorer "Tool bar" without "Servers" button: https://forum.xda-developers.com/attachments/3-jpg.3783167/ from "Screenshots" in  https://forum.xda-developers.com/t/app-2-2-mixplorer-v6-x-released-fully-featured-file-manager.1523691/
- - Image of MiXplorer "Tool bar" with "Servers" button: https://raw.githubusercontent.com/YandLiu/MiXPlorerSkins/master/Screenshots/Night%20Mode.png from "Night Mode (Click to view Skin Code)" in https://github.com/YandLiu/MiXPlorerSkins (@YandLiu)
+ - Image of MiXplorer "Tool bar" with "Servers" button: https://raw.githubusercontent.com/YandLiu/MiXPlorerSkins/master/Screenshots/Night%20Mode.png from "Night Mode (Click to view Skin Code)" in https://github.com/YandLiu/MiXPlorerSkins ([@YandLiu](https://github.com/YandLiu))
  - Read "You can enable it from the Settings > Buttons > Tool bar" in https://forum.xda-developers.com/t/mixplorer-q-a-and-faq-user-manual.3308582/page-24#post-75842583 ("HootanParsa" "Recognized Developer" "Mar 10, 2018" "#479")
 
 
@@ -61,7 +61,7 @@ MiX Archive (Hootan Parsa, com.mixplorer.addon.archive) is required: https://for
 
 <p><br></p>
 
-RCX - Rclone for Android (x0b, io.github.x0b.rcx): https://github.com/x0b/rcx (@x0b), https://x0b.github.io , https://play.google.com/store/apps/details?id=io.github.x0b.rcx  
+RCX - Rclone for Android (x0b, io.github.x0b.rcx): https://github.com/x0b/rcx ([@x0b](https://github.com/x0b)), https://x0b.github.io , https://play.google.com/store/apps/details?id=io.github.x0b.rcx  
  - Read "Configuring remotes", "Serving content", "Local Storage": https://x0b.github.io/docs/
  - "Streaming (Stream media files, serve files and directories over FTP, HTTP, WebDAV or DLNA)" and "Storage Access Framework (SAF) (see docs) for SD card and USB device access.": https://github.com/x0b/rcx
 
@@ -311,19 +311,19 @@ exit
 
 
 ### Additional Installed Software
-- Apk Analyzer (Martin Styk, sk.styk.martin.apkanalyzer): https://github.com/MartinStyk/AndroidApkAnalyzer (@MartinStyk), https://play.google.com/store/apps/details?id=sk.styk.martin.apkanalyzer
+- Apk Analyzer (Martin Styk, sk.styk.martin.apkanalyzer): https://github.com/MartinStyk/AndroidApkAnalyzer ([@MartinStyk](https://github.com/MartinStyk)), https://play.google.com/store/apps/details?id=sk.styk.martin.apkanalyzer
 - Chmod calculator (Bonaventura Novellino, com.chmod.calc.o): https://play.google.com/store/apps/details?id=com.chmod.calc.o
 - Device Info HW (Andrey Efremov, ru.andr7e.deviceinfohw): https://play.google.com/store/apps/details?id=ru.andr7e.deviceinfohw
 - Files (Marc apps & software, com.marc.files): https://play.google.com/store/apps/details?id=com.marc.files
-- Firefox Beta: (mozilla-mobile. org.mozilla.firefox_beta): https://github.com/mozilla-mobile/firefox-android (@mozilla-mobile), https://www.mozilla.org/en-US/firefox/browsers/mobile/
-- Hash Droid (Hobby One, com.hobbyone.HashDroid): https://f-droid.org/en/packages/com.hobbyone.HashDroid/ , https://github.com/HobbyOneDroid/HashDroid (@HobbyOneDroid), https://play.google.com/store/apps/details?id=com.hobbyone.HashDroid
-- Material Files (Hai Zhang, me.zhanghai.android.files): https://github.com/zhanghai/MaterialFiles (@zhanghai), https://play.google.com/store/apps/details?id=me.zhanghai.android.files
+- Firefox Beta: (mozilla-mobile. org.mozilla.firefox_beta): https://github.com/mozilla-mobile/firefox-android ([@mozilla-mobile](https://github.com/mozilla-mobile)), https://www.mozilla.org/en-US/firefox/browsers/mobile/
+- Hash Droid (Hobby One, com.hobbyone.HashDroid): https://f-droid.org/en/packages/com.hobbyone.HashDroid/ , https://github.com/HobbyOneDroid/HashDroid ([@HobbyOneDroid](https://github.com/HobbyOneDroid)), https://play.google.com/store/apps/details?id=com.hobbyone.HashDroid
+- Material Files (Hai Zhang, me.zhanghai.android.files): https://github.com/zhanghai/MaterialFiles ([@zhanghai](https://github.com/zhanghai)), https://play.google.com/store/apps/details?id=me.zhanghai.android.files
 - MiX Image (Hootan Parsa, com.mixplorer.addon.image): https://forum.xda-developers.com/t/app-2-2-mixplorer-v6-x-released-fully-featured-file-manager.1523691/ ("Downloads")
 - MiX PDF (Hootan Parsa, com.mixplorer.addon.pdf): https://forum.xda-developers.com/t/app-2-2-mixplorer-v6-x-released-fully-featured-file-manager.1523691/ ("Downloads")
-- Primitive FTPd (wolpi, org.primftpd): https://github.com/wolpi/prim-ftpd (@wolpi), https://play.google.com/store/apps/details?id=org.primftpd
+- Primitive FTPd (wolpi, org.primftpd): https://github.com/wolpi/prim-ftpd ([@wolpi](https://github.com/wolpi)), https://play.google.com/store/apps/details?id=org.primftpd
 - RealCalc Scientific Calculator (Quartic Software, uk.co.nickfines.RealCalc): https://play.google.com/store/apps/details?id=uk.co.nickfines.RealCalc
 - Simple HTTP Server (Phlox Development, com.phlox.simpleserver): https://play.google.com/store/apps/details?id=com.phlox.simpleserver
-- Termux:GUI (termux, com.termux.gui): https://github.com/termux/termux-gui (@termux), https://play.google.com/store/apps/details?id=com.phlox.simpleserver
+- Termux:GUI (termux, com.termux.gui): https://github.com/termux/termux-gui ([@termux](https://github.com/termux)), https://play.google.com/store/apps/details?id=com.phlox.simpleserver
 - USB Device Info (Alexandros Schillings, aws.apps.usbDeviceEnumerator): https://play.google.com/store/apps/details?id=aws.apps.usbDeviceEnumerator
 
 <p><br></p>
