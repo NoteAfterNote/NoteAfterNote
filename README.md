@@ -268,9 +268,13 @@ exit
 </td>
 </table>
 
+<p><br></p>
+
 ---
 
 <p><br></p>
+
+
 
 ### Reference Links
 
@@ -302,6 +306,11 @@ exit
 
 <p><br></p>
 
+---
+
+<p><br></p>
+
+
 ### Additional Installed Software
 - Apk Analyzer (Martin Styk, sk.styk.martin.apkanalyzer): https://github.com/MartinStyk/AndroidApkAnalyzer (@MartinStyk), https://play.google.com/store/apps/details?id=sk.styk.martin.apkanalyzer
 - Chmod calculator (Bonaventura Novellino, com.chmod.calc.o): https://play.google.com/store/apps/details?id=com.chmod.calc.o
@@ -318,10 +327,8 @@ exit
 - Termux:GUI (termux, com.termux.gui): https://github.com/termux/termux-gui (@termux), https://play.google.com/store/apps/details?id=com.phlox.simpleserver
 - USB Device Info (Alexandros Schillings, aws.apps.usbDeviceEnumerator): https://play.google.com/store/apps/details?id=aws.apps.usbDeviceEnumerator
 
----
+<p><br></p>
 
----
+   ---
 
----
-
-
+<p><br></p>
