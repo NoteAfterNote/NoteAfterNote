@@ -135,7 +135,7 @@ updatedb    # "man locate" and "man updatedb"
 ````
 #
 # Open a new Termux session
-# Termux session name: Example Number 2
+# Termux session name: Example 2
 #
 # test-disk1-30mb.ext: test-disk1-30mb.ext is a 31457280-byte (30 megabytes, 1 megabyte = 1024*1024 bytes = 1048576 bytes) image file 
 # 
