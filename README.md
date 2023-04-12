@@ -13,3 +13,8 @@ Link: https://gist.github.com/NoteAfterNote/2558deec94bac7ec9fa58aa5ad5e9d1b
 
 
 ---
+
+<h3 align="center">Termux And The ext4 Filesystem, Part 3 Of 5: QEMU, A Guest Operating System, LUKS Encryption, lighttpd, WebDAV<br>Published: April 12, 2023<br>Link: https://gist.github.com/NoteAfterNote/cabd411777f2ad5ae57d3d98c576471c</h3>
+
+
+---
