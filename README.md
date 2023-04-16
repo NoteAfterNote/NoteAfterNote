@@ -22,5 +22,11 @@ Link: https://gist.github.com/NoteAfterNote/2558deec94bac7ec9fa58aa5ad5e9d1b
 <h3 align="center">Termux And The ext4 Filesystem, Part 4 Of 5: QEMU, A Guest Operating System, GNU GRUB Bootloader, And fdisk<br>Published: April 14, 2023<br>Link: https://gist.github.com/NoteAfterNote/0ec14839db016b6d3b905d4eda5db263</h3>
 
 
+
+---
+
+<h3 align="center">Termux And The ext4 Filesystem, Part 5 Of 5: Reading And Writing With debugfs, No Root Required<br>Published: April 16, 2023<br>Link: https://gist.github.com/NoteAfterNote/854468164f8513bea764ac1668489f96</h3>
+
+
 ---
 
