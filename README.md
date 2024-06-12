@@ -22,15 +22,14 @@
 
 ### <a id="NoteAfterNote-6"></a><h3 align="center">NoteAfterNote-6<br>Experimental: FTP, Termux, QEMU<br>Published: April 18, 2023<br>Link: https://gist.github.com/NoteAfterNote/1ead8e2b91f10cefd8b4cbcb41cb7f5a<br>See NoteAfterNote-2, NoteAfterNote-3, NoteAfterNote-4</h3>
 
-
-
 ---
 
 ### <a id="NoteAfterNote-7"><h3 align="center">NoteAfterNote-7<br>Reading and writing a USB drive connected to a Linux server using Termux, termux-usb, usbredirect, and QEMU on a smartphone that is not rooted<br>Published: May 19, 2024<br>Link: https://gist.github.com/NoteAfterNote/7a197233de3d60ff1e23ca90ed2f595a
-<p><br></p></h3>
-
+></h3>
 
 ---
 
+### <a id="NoteAfterNote-8"><h3 align="center">NoteAfterNote-8<br>Smartphone-1 to Smartphone-2: "adb tcpip 5555" using a Linux server, android-tools, Termux, termux-usb, usbredirect, and QEMU<br>Published: June 12, 2024<br>Link: [https://gist.github.com/NoteAfterNote/7a197233de3d60ff1e23ca90ed2f595a](https://gist.github.com/NoteAfterNote/ee883d5fd86c3b8ef0b0b84cac47b4d6)
+</h3>
 
-
+---
