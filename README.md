@@ -24,17 +24,22 @@
 
 ---
 
-### <a id="NoteAfterNote-7"><h3 align="center">NoteAfterNote-7<br>Reading and writing a USB drive connected to a Linux server using Termux, termux-usb, usbredirect, and QEMU on a smartphone that is not rooted<br>Published: May 19, 2024<br>Link: https://gist.github.com/NoteAfterNote/7a197233de3d60ff1e23ca90ed2f595a
+### <a id="NoteAfterNote-7"><h3 align="center">NoteAfterNote-7<br>Reading and writing a USB drive connected to a Linux server using Termux, termux-usb, usbredirect, and QEMU on a smartphone that is not rooted<br>Published: May 19, 2024<br>Link: https://gist.github.com/NoteAfterNote/7a197233de3d60ff1e23ca90ed2f595a<br>See NoteAfterNote-10
 </h3>
 
 ---
 
-### <a id="NoteAfterNote-8"><h3 align="center">NoteAfterNote-8<br>Smartphone-1 to Smartphone-2: "adb tcpip 5555" using a Linux server, android-tools, Termux, termux-usb, usbredirect, and QEMU<br>Published: June 12, 2024<br>Link: [https://gist.github.com/NoteAfterNote/7a197233de3d60ff1e23ca90ed2f595a](https://gist.github.com/NoteAfterNote/ee883d5fd86c3b8ef0b0b84cac47b4d6)
+### <a id="NoteAfterNote-8"><h3 align="center">NoteAfterNote-8<br>Smartphone-1 to Smartphone-2: "adb tcpip 5555" using a Linux server, android-tools, Termux, termux-usb, usbredirect, and QEMU<br>Published: June 12, 2024<br>Link: [https://gist.github.com/NoteAfterNote/7a197233de3d60ff1e23ca90ed2f595a](https://gist.github.com/NoteAfterNote/ee883d5fd86c3b8ef0b0b84cac47b4d6)<br>See NoteAfterNote-10
 </h3>
 
 ---
 
-### <a id="NoteAfterNote-9"><h3 align="center">NoteAfterNote-9<br>The Root Password<br>Published: June 16, 2024<br>Link: https://gist.github.com/NoteAfterNote/1a5dc912d01b05350e178c30fbb18510<br>See NoteAfterNote-7
+### <a id="NoteAfterNote-9"><h3 align="center">NoteAfterNote-9<br>The Root Password<br>Published: June 16, 2024<br>Link: https://gist.github.com/NoteAfterNote/1a5dc912d01b05350e178c30fbb18510<br>See NoteAfterNote-7, NoteAfterNote-10
+</h3>
+
+---
+
+### <a id="NoteAfterNote-10"><h3 align="center">NoteAfterNote-10<br>Testing: Termux, vmtest, and QEMU<br>Published: June 16, 2024<br>Link: https://gist.github.com/NoteAfterNote/1a5dc912d01b05350e178c30fbb18510<br>See NoteAfterNote-7, NoteAfterNote-8, NoteAfterNote-9
 </h3>
 
 ---
