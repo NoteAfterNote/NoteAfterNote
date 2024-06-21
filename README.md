@@ -39,7 +39,7 @@
 
 ---
 
-### <a id="NoteAfterNote-10"><h3 align="center">NoteAfterNote-10<br>Testing: Termux, vmtest, and QEMU<br>Published: June 16, 2024<br>Link: https://gist.github.com/NoteAfterNote/7614b0137ac6959e3bba35df66eaa75a<br>See NoteAfterNote-7, NoteAfterNote-8, NoteAfterNote-9
+### <a id="NoteAfterNote-10"><h3 align="center">NoteAfterNote-10<br>Testing: Termux, vmtest, and QEMU<br>Published: June 19, 2024<br>Link: https://gist.github.com/NoteAfterNote/7614b0137ac6959e3bba35df66eaa75a<br>See NoteAfterNote-7, NoteAfterNote-8, NoteAfterNote-9
 </h3>
 
 ---
