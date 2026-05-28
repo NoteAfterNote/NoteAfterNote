@@ -53,3 +53,7 @@
 </h3>
 
 ---
+
+### <a id="NoteAfterNote-13"><h3 align="center">NoteAfterNote-13<br>Public Key Infrastructure (PKI)<br>Published: May 28, 2026<br>Link: https://gist.github.com/NoteAfterNote/0892db84c82e4f5107bc35a6931fa5de</h3>
+
+---
