@@ -57,3 +57,7 @@
 ### <a id="NoteAfterNote-13"><h3 align="center">NoteAfterNote-13<br>Public Key Infrastructure (PKI)<br>Published: May 28, 2026<br>Link: https://gist.github.com/NoteAfterNote/0892db84c82e4f5107bc35a6931fa5de</h3>
 
 ---
+
+### <a id="NoteAfterNote-14"><h3 align="center">NoteAfterNote-14<br>Using stunnel for secure Network File System (NFS) communication between  NFS servers and clients: UNFS3 NFS Server unfsd as a native Termux executable on a smartphone running the Android 14 operating system (OS) and GNU/Linux NFS servers running the Fedora Linux operating system<br>Published: October 9, 2026<br>Link: https://gist.github.com/NoteAfterNote/cbf4bc7c21a6a517146b3d3c12643cba</h3>
+
+---
