@@ -61,3 +61,7 @@
 ### <a id="NoteAfterNote-14"><h3 align="center">NoteAfterNote-14<br>Using stunnel for secure Network File System (NFS) communication between  NFS servers and clients: UNFS3 NFS Server unfsd as a native Termux executable on a smartphone running the Android 14 operating system (OS) and GNU/Linux NFS servers running the Fedora Linux operating system<br>Published: October 9, 2026<br>Link: https://gist.github.com/NoteAfterNote/cbf4bc7c21a6a517146b3d3c12643cba</h3>
 
 ---
+
+### <a id="NoteAfterNote-15"><h3 align="center">NoteAfterNote-15<br>Termux, Termux:X11, and "XCA - X Certificate and Key Management"<br>Published: November 17, 2026<br>Link: https://gist.github.com/NoteAfterNote/f6cff4dceb288a6cd9e8fddad2fa4ca0</h3>
+
+---
